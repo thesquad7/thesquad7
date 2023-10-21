@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="https://github.com/thesquad7/thesquad7/gitartwork.svg?raw=true">
 <!--
 **thesquad7/thesquad7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
