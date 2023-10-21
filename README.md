@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <img src="https://github.com/thesquad7/thesquad7/gitartwork.svg?raw=true">
 <!--
